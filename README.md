@@ -29,10 +29,6 @@
 
 ---
 
-##  GitHub Stats
-(Add GitHub stats card here if you want later)
-
----
 
 ##  Connect With Me
 - LinkedIn: https://www.linkedin.com/in/kanika-rathore-682b7a365/
