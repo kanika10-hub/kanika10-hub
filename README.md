@@ -1,114 +1,245 @@
+<div align="center">
+
 # Kanika Rathore
 
 ### AI Engineer | Generative AI Developer | Full Stack Developer | Cybersecurity Enthusiast
 
-## About Me
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Generative+AI+Developer;LLMs+%7C+RAG+%7C+AI+Agents;Full+Stack+Developer;Cybersecurity+Enthusiast;Learning+Something+New+Every+Day" alt="Typing SVG"/>
 
-Passionate about building intelligent systems that combine Large Language Models (LLMs), AI Agents, Retrieval-Augmented Generation (RAG), and modern software engineering practices.
+<br>
 
-Currently focused on designing and developing end-to-end AI applications using LangChain, LangGraph, MCP, vector databases, and agentic workflows. I enjoy transforming AI concepts into practical, scalable products while continuously exploring cybersecurity and secure system design principles.
-
-### Areas of Interest
-
-* Generative AI & LLM Applications
-* AI Agents & Multi-Agent Systems
-* Retrieval-Augmented Generation (RAG)
-* AI System Design & Deployment
-* Full Stack Development
-* Cybersecurity & Secure Architectures
-* Open Source & Continuous Learning
+</div>
 
 ---
 
-## Tech Stack
+# About Me
 
-### Languages
+I'm an aspiring AI Engineer passionate about building intelligent software powered by Large Language Models, Retrieval-Augmented Generation (RAG), AI Agents, and modern software engineering practices.
 
-* Python
-* Java
-* JavaScript
-* SQL
-* C++
+I enjoy transforming research into practical products by combining AI, backend engineering, and scalable system design. Alongside AI, I'm actively exploring cybersecurity concepts and secure application development.
 
-### AI & Generative AI
-
-* LangChain
-* LangGraph
-* MCP (Model Context Protocol)
-* RAG Pipelines
-* Vector Databases (FAISS)
-* Hugging Face
-* Scikit-Learn
-* Prompt Engineering
-* AI Agent Development
-* Fine-Tuning Fundamentals
-
-### Backend & Web
-
-* Node.js
-* HTML
-* CSS
-* REST APIs
-
-### Databases
-
-* SQL
-* Vector Databases
-
-### Tools & DevOps
-
-* Docker
-* Git & GitHub
-* VS Code
-* Jupyter Notebook
+Currently focused on building production-ready AI applications while continuously improving my problem-solving, software engineering, and system design skills.
 
 ---
 
-## Featured Projects
+# GitHub Statistics
 
-### AI-Powered Subscription Analysis System
+<p align="center">
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-Built an intelligent analytics platform leveraging machine learning techniques to analyze user subscriptions and generate actionable insights.
+<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+</p>
 
-### Retrieval-Augmented Generation (RAG) System
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+</p>
 
-Developed a complete RAG pipeline using LangChain, Hugging Face Embeddings, FAISS, and LLMs for context-aware question answering.
-
-### MCP Server
-
-Designed and deployed a custom MCP server enabling AI models to interact with external tools and services through standardized protocols.
-
-### Flood Early Warning System
-
-Machine learning-based prediction system for identifying flood risks and supporting early-warning decision making.
-
-### Dockerized Task Management Application
-
-Containerized full-stack application demonstrating deployment, scalability, and software engineering best practices.
-
-### Inventory Management System
-
-Developed a complete inventory tracking solution with efficient data management and reporting capabilities.
+<p align="center">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+</p>
 
 ---
 
-## Currently Learning
+# Contribution Snake
 
-* Advanced Python
-* AI Agents & Agentic Workflows
-* Multi-Agent Systems
-* Fine-Tuning LLMs
-* AI System Design
-* Production-Grade RAG Architectures
-* MLOps Fundamentals
-* Cybersecurity for AI Systems
+<p align="center">
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+</p>
 
 ---
 
-## Connect With Me
+# Tech Stack
 
-LinkedIn: linkedin.com/in/kanika-rathore-682b7a365
+## Programming Languages
 
-Email: [kanika.rathore.tech@gmail.com](mailto:kanika.rathore.tech@gmail.com)
+<p>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,nodejs,mysql,docker,git,github,vscode" />
+</p>
 
-⭐ Building AI systems, learning in public, and documenting the journey one project at a time.
+---
+
+## Artificial Intelligence
+
+- Large Language Models (LLMs)
+- AI Agents
+- Agentic Workflows
+- LangChain
+- LangGraph
+- MCP (Model Context Protocol)
+- Retrieval-Augmented Generation (RAG)
+- Prompt Engineering
+- Hugging Face
+- Vector Databases (FAISS)
+- Scikit-Learn
+- OpenAI API
+- Gemini API
+
+---
+
+## Backend Development
+
+- REST APIs
+- Node.js
+- Authentication
+- API Integration
+- JSON
+- Software Architecture
+
+---
+
+## Databases
+
+- SQL
+- MySQL
+- FAISS
+- Vector Search
+
+---
+
+## DevOps & Tools
+
+- Docker
+- Git
+- GitHub
+- VS Code
+- Jupyter Notebook
+
+---
+
+## Cybersecurity
+
+- Secure Software Development
+- Authentication & Authorization
+- Web Security Fundamentals
+- OWASP Top 10
+- Network Security Basics
+- Secure AI Systems
+
+---
+
+# Areas of Interest
+
+- Generative AI
+- AI Agents
+- Multi-Agent Systems
+- Retrieval-Augmented Generation (RAG)
+- AI Product Development
+- Full Stack Engineering
+- AI System Design
+- Cybersecurity
+- MLOps
+- Open Source
+
+---
+
+# Featured Projects
+
+## AI-Powered Subscription Analysis System
+
+Developed an intelligent analytics platform using machine learning techniques to analyze subscription behavior and generate actionable business insights.
+
+---
+
+## RAG Question Answering System
+
+Built a production-style Retrieval-Augmented Generation pipeline using LangChain, Hugging Face Embeddings, FAISS, and LLMs for context-aware responses.
+
+---
+
+## Custom MCP Server
+
+Designed a Model Context Protocol server enabling AI assistants to securely interact with external tools and services.
+
+---
+
+## Diabetes Risk Prediction
+
+Implemented an end-to-end Machine Learning pipeline including EDA, feature engineering, scaling, Logistic Regression, and model evaluation.
+
+---
+
+## Flood Early Warning System
+
+Developed a machine learning solution for flood prediction using environmental data to support early-warning decision making.
+
+---
+
+## Dockerized Task Management Application
+
+Containerized a full-stack task management platform demonstrating scalable deployment using Docker.
+
+---
+
+## Inventory Management System
+
+Built a complete inventory tracking solution with CRUD operations, reporting, and efficient stock management.
+
+---
+
+# Currently Learning
+
+- Advanced Python
+- AI Agents
+- LangGraph
+- Multi-Agent Systems
+- Fine-Tuning LLMs
+- AI System Design
+- MLOps
+- Cloud Deployment
+- Cybersecurity for AI
+
+---
+
+# 2026 Goals
+
+- Build 10+ AI Projects
+- Contribute to Open Source
+- Master LangGraph & MCP
+- Learn Cloud Deployment
+- Strengthen DSA & System Design
+- Publish Technical Blogs
+- Participate in Hackathons
+- Build Production-Ready AI Products
+
+---
+
+# Research Interests
+
+- Generative AI
+- AI Agents
+- Agentic Workflows
+- RAG Systems
+- AI Security
+- Human-AI Collaboration
+- Scalable AI Applications
+- Intelligent Automation
+
+---
+
+# Connect With Me
+
+<p align="center">
+
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://skillicons.dev/icons?i=github"/>
+</a>
+
+<a href="mailto:kanika.rathore.tech@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
+
+---
+
+<div align="center">
+
+### ⭐ Building AI products • Learning in Public • Shipping Every Week
+
+*"Consistency beats intensity."*
+
+</div>
