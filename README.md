@@ -6,8 +6,6 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=24&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=900&lines=Building+AI-Powered+Applications;Generative+AI+Developer;LLMs+%7C+RAG+%7C+AI+Agents;Full+Stack+Developer;Cybersecurity+Enthusiast;Learning+Something+New+Every+Day" alt="Typing SVG"/>
 
-<br>
-
 </div>
 
 ---
@@ -25,17 +23,17 @@ Currently focused on building production-ready AI applications while continuousl
 # GitHub Statistics
 
 <p align="center">
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=kanika10-hub&show_icons=true&theme=github_dark&hide_border=true&count_private=true"/>
 
-<img height="170" src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img height="170" src="https://streak-stats.demolab.com?user=kanika10-hub&theme=github-dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=github_dark&hide_border=true"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kanika10-hub&layout=compact&theme=github_dark&hide_border=true"/>
 </p>
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kanika10-hub&theme=github-dark&hide_border=true"/>
 </p>
 
 ---
@@ -43,7 +41,7 @@ Currently focused on building production-ready AI applications while continuousl
 # Contribution Snake
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake-dark.svg"/>
+<img src="https://raw.githubusercontent.com/kanika10-hub/kanika10-hub/output/github-contribution-grid-snake-dark.svg"/>
 </p>
 
 ---
@@ -53,7 +51,7 @@ Currently focused on building production-ready AI applications while continuousl
 ## Programming Languages
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,java,cpp,js,html,css,nodejs,mysql,docker,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,java,cpp,javascript,html,css,nodejs,mysql,docker,git,github,vscode" />
 </p>
 
 ---
@@ -89,8 +87,8 @@ Currently focused on building production-ready AI applications while continuousl
 
 ## Databases
 
-- SQL
 - MySQL
+- SQL
 - FAISS
 - Vector Search
 
@@ -176,17 +174,21 @@ Built a complete inventory tracking solution with CRUD operations, reporting, an
 
 ---
 
-# Currently Learning
+# Current Focus
 
-- Advanced Python
-- AI Agents
-- LangGraph
-- Multi-Agent Systems
-- Fine-Tuning LLMs
-- AI System Design
-- MLOps
-- Cloud Deployment
-- Cybersecurity for AI
+```python
+Learning = [
+    "Advanced Python",
+    "AI Agents",
+    "LangGraph",
+    "Multi-Agent Systems",
+    "Fine-Tuning LLMs",
+    "AI System Design",
+    "MLOps",
+    "Cloud Deployment",
+    "Cybersecurity for AI"
+]
+```
 
 ---
 
@@ -220,11 +222,11 @@ Built a complete inventory tracking solution with CRUD operations, reporting, an
 
 <p align="center">
 
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+<a href="https://www.linkedin.com/in/kanika-rathore-682b7a365/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/kanika10-hub">
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
@@ -238,7 +240,7 @@ Built a complete inventory tracking solution with CRUD operations, reporting, an
 
 <div align="center">
 
-### ⭐ Building AI products • Learning in Public • Shipping Every Week
+### ⭐ Building AI Products • Learning in Public • Shipping Every Week
 
 *"Consistency beats intensity."*
 
