@@ -3,109 +3,69 @@
 ### Computer Science Student | AI Engineering + AI Security
 
 I'm a Computer Science student interested in building practical AI systems
-and understanding how to make them reliable and secure.
+and exploring AI security.
 
-My current focus is the intersection of:
-
-**AI Engineering · LLMs · RAG · Agents · AI Security**
-
-I like understanding systems from the fundamentals, experimenting with
-different approaches, and turning what I learn into working projects.
-
----
-
-## What I'm Working On
-
-### AI Engineering
-- LLM applications
-- Retrieval-Augmented Generation (RAG)
-- AI Agents & Agentic Workflows
-- LangGraph
+My focus:
+- LLMs
+- RAG
+- AI Agents
 - MCP
-- Embeddings & Vector Search
-
-### AI Security
-- Prompt Injection
-- RAG Security
-- Agent Security
-- AI Guardrails
-- Secure AI Applications
-
-### Software Engineering
-- Python
-- C++
-- REST APIs
-- Docker
-- Git & GitHub
-- CI/CD
-- Linux
-
----
+- AI Security
+- Software Engineering
 
 ## Selected Projects
 
-### 🧠 Nexora — Agentic RAG System
+### Nexora
+Agentic RAG system with routing, document grading, query rewriting,
+semantic caching, and model tiering.
 
-Built an agentic RAG pipeline with query routing, document grading,
-query rewriting, semantic caching and model tiering.
+- Router accuracy: 42% → 84%
+- Repeat-query latency: 6–8s → <0.5s
+- Reduced unnecessary LLM calls
 
-**Highlights**
-- Improved router accuracy from 42% → 84%
-- Reduced repeated-query latency from 6–8s → <0.5s
-- Reduced unnecessary LLM calls through model tiering
+### RepoMind
+Repository intelligence system using MCP to help AI systems
+understand and interact with codebases.
 
----
+### SecureAI CI/CD
+Python ML API with automated testing and GitHub Actions,
+focused on CI/CD and DevSecOps fundamentals.
 
-### 🔎 RepoMind — Repository Intelligence System
+### AI From Scratch
+Implementing core AI concepts to understand the fundamentals
+behind modern AI systems.
 
-Built a repository intelligence system using the Model Context Protocol
-to help AI systems understand and interact with codebases.
-
----
-
-### 🔐 SecureAI CI/CD Pipeline
-
-Built a Python ML API with automated testing and GitHub Actions,
-exploring the foundations of CI/CD and DevSecOps.
-
----
-
-### 🤖 AI / ML From Scratch
-
-Implementing core AI concepts from first principles to understand
-what happens underneath high-level frameworks.
-
-Currently exploring:
 - Tokenization
 - Neural Networks
 - Attention
 - Transformers
-- GPT-style architectures
-
----
+- GPT
 
 ## Currently Learning
 
 - AI Security
-- Agentic AI Systems
+- Agentic AI
 - LLM Evaluation
 - DevSecOps
 - System Design
-- Data Structures & Algorithms
+- Data Structures and Algorithms
 
----
+## Technical Skills
+
+Python | C++ | JavaScript  
+PyTorch | TensorFlow | LangChain | LangGraph  
+RAG | LLMs | AI Agents | MCP  
+Docker | Git | GitHub Actions | Linux  
+MySQL | FAISS | REST APIs
 
 ## How I Build
 
-- Understand the abstraction before depending on it.
-- Experiment when I'm unsure.
-- Measure before optimizing.
-- Document what worked and what didn't.
-- Build → test → break → learn → improve.
+Understand → Build → Test → Break → Improve
 
----
+I focus on understanding systems, experimenting with different
+approaches, and measuring results.
 
-## Connect
+## Contact
 
-- LinkedIn: [Kanika Rathore](YOUR_LINKEDIN_URL)
-- Email: kanika.rathore.tech@gmail.com
+LinkedIn: YOUR_LINKEDIN_URL  
+Email: kanika.rathore.tech@gmail.com
