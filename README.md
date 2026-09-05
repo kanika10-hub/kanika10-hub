@@ -67,5 +67,5 @@ approaches, and measuring results.
 
 ## Contact
 
-LinkedIn: YOUR_LINKEDIN_URL  
+LinkedIn: https://www.linkedin.com/in/kanika-rathore-682b7a365/  
 Email: kanika.rathore.tech@gmail.com
